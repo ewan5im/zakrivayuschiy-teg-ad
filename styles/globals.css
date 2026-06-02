@@ -9,7 +9,8 @@
 }
 
 body {
-  margin: 0;
+  margin: auto;
+  background-color: var(--themes-backgroud-color);
 }
 
 h1,
